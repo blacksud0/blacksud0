@@ -1,4 +1,7 @@
-## Hi there 👋
+## Game Over 👋
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blacksud0&show=prs_merged&show_icons=true&theme=transparent&hide_border=true&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksud0&langs_count=7&theme=transparent&hide_border=true&layout=compact) |
-|-|-|
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
